@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "155457967386",
+    "project_id": "testubi2-d2fe0",
+    "storage_bucket": "testubi2-d2fe0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155457967386:android:4f1d3ed97dcba57bf448a3",
+        "android_client_info": {
+          "package_name": "com.testubi2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155457967386-7124jorf6eh3qfgqjllk5ut506jb9iae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM7wKJoEke2ohVo6UzL0dxgD_l8OEvdNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155457967386-7124jorf6eh3qfgqjllk5ut506jb9iae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
